@@ -1,7 +1,7 @@
 # MCTI_6530
 Submission 2 – Malicious Payload Dataset
 
-Course: CIS 6530
+Course: CIS_6530
 Project: Project 1 – APT Group Set
 Submission: 2
 Prepared by: Nimmi Chaudhary/ Batul Ismail
