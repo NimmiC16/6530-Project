@@ -151,3 +151,22 @@ No malware was executed outside a sandboxed environment.
 This dataset has been compiled exclusively for educational purposes as part of CIS 6530 coursework. The repository is not intended for redistribution or operational use.
 
 All samples were sourced from publicly documented threat intelligence materials and verified using reputable malware analysis platforms.
+
+9. Missing APT:
+
+Samples for following APTs are not included as they were not available on opensource:
+
+Executable:
+G0005 - APT12
+G0013 - APT30
+G0130 - AjaxSecurityGroup
+G0097 - BouncingGolf
+G0084 - Gallmaker
+
+Other Payloads:
+G0005 - APT12
+G0013 - APT30
+G0023 - APT16
+G0130 - AjaxSecurityGroup
+G0097 - BouncingGolf
+G0084 - Gallmaker
